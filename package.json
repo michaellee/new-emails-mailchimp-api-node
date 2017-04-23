@@ -1,0 +1,13 @@
+{
+  "name": "new-emails-mailchimp-api-node",
+  "version": "1.0.0",
+  "description": "An example Node app to send new emails to a MailChimp list",
+  "main": "index.js",
+  "repository": "git@github.com:michaellee/new-emails-mailchimp-api-node.git",
+  "author": "Michael Lee <michaelsoolee@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
